@@ -5,7 +5,11 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+
+        <div class="col-m-6 col-md-offset-3">
+        <img src="img/logo.png" class="img-responsive" width="100px" height="100px">
+        </div>
+        <div class="col-md-6 col-md-offset-3">
             <div class="panel panel-default">
                 <div class="panel-heading">Register</div>
                 <div class="panel-body">
@@ -70,9 +74,7 @@
 
                         <div class="form-group">
                             <div class="col-md-6 col-md-offset-4">
-                                <button type="submit" class="btn btn-primary">
-                                    <i class="fa fa-btn fa-user"></i> Register
-                                </button>
+                               <button type="submit" class="flat-btn">Sign Up Now!</button>
                             </div>
                         </div>
                     </form>
