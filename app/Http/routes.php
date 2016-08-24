@@ -22,3 +22,4 @@ Route::post('signup','SignupController@index');
 
 Route::auth();
 Route::get('/home', 'HomeController@index');
+Route::get('/profile', 'ProfileController@index');

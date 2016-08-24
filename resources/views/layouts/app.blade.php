@@ -58,6 +58,9 @@
                 <!-- Left Side Of Navbar -->
                 <ul class="nav navbar-nav">
                     <li><a class='wc' href="{{ url('/home') }}">Home</a></li>
+                    @if (! Auth::guest())
+                    <li><a class='wc' href="{{ url('/profile') }}">Profile</a></li>
+                    @endif
                 </ul>
 
                 <!-- Right Side Of Navbar -->
