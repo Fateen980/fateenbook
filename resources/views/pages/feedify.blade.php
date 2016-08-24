@@ -1,5 +1,5 @@
 <div class="row">
-        <div class="col-md-8 col-md-offset-1">
+        <div class=" @if (Auth::check()) col-md-10 col-md-offset-1  @else col-md-8 col-md-offset-1  @endif">
           <div class="feedify">
 
 
