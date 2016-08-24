@@ -1,5 +1,7 @@
 @extends('layouts.app')
-
+@section('css')
+<link href="{!! asset('css/sidebar.css') !!}" rel="stylesheet">
+@stop
 @section('content')
 <div class="container">
     <div class="row">
