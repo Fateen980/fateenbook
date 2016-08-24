@@ -24,9 +24,11 @@
             font-family: 'Lato';
         }
 
-        .navbar-default .navbar-nav>li>a {color:#fff;}
+        .navbar-default .navbar-nav>li>a {color:#fff;font-size:15px;}
         .navbar-default .navbar-brand {color:#fff;}
         .panel-default>.panel-heading{background-color: #3c604a;color:#fff;}
+        .navbar-default .navbar-nav >li:hover {background-color:#abc3b5;color:#3c604a; }
+        .navbar-default .navbar-brand:hover {background-color:#abc3b5;color:#3c604a; }
 
         .fa-btn {
             margin-right: 6px;

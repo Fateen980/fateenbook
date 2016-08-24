@@ -1,34 +1,8 @@
 <div class="row">
         <div class="col-md-6 col-md-offset-2 ">
           <div class="feedify">
-            <section class="feedify-item">
-              <header class="feedify-item-header clearfix">
-                <img alt="" src="img/ahmed-tayem.jpg" class="img-circle pull-left">
-                <h1 class="pull-left"><a href="#">Dev TayyÊm</a></h1>
-                <h2 class="pull-right hidden-xs">20 minutes ago</h2>
-              </header>
-              <div class="feedify-item-body">
-                <img alt="" src="img/10365852_10152006357016862_4861339571654891055_n.jpg" class="img-responsive">
-              </div>
-              <footer>
-                <div class="actions">
-                  <ul class="list-inline">
-                    <li><a href="#"><i class="icon-heart"></i></a></li>
-                    <li><a href="#"><i class="icon-speak"></i></a></li>
-                    <li class="pull-right"><a href="#"><i class="icon-tripledot"></i></a></li>
-                  </ul>
-                </div>
-                <div class="legend">
-                  <h3><a href="#"><i class="icon-heart"></i> 51 Likes</a></h3>
-                  <h4 class="pull-left"><a href="#">Fateen Alzubi</a></h4>
-                  <p>Dr.Bashar</p>
-                </div>
-                <ul class="comments list-unstyled">
 
 
-                </ul>
-              </footer>
-            </section>
             <section class="feedify-item">
               <header class="feedify-item-header clearfix">
                 <img alt="" src="img/hamzairshaid_1438360597_140.jpg" class="img-circle pull-left">
@@ -63,6 +37,40 @@
                 </ul>
               </footer>
             </section>
+
+
+
+
+
+            <section class="feedify-item">
+              <header class="feedify-item-header clearfix">
+                <img alt="" src="img/ahmed-tayem.jpg" class="img-circle pull-left">
+                <h1 class="pull-left"><a href="#">Dev TayyÊm</a></h1>
+                <h2 class="pull-right hidden-xs">20 minutes ago</h2>
+              </header>
+              <div class="feedify-item-body">
+                <img alt="" src="img/10365852_10152006357016862_4861339571654891055_n.jpg" class="img-responsive">
+              </div>
+              <footer>
+                <div class="actions">
+                  <ul class="list-inline">
+                    <li><a href="#"><i class="icon-heart"></i></a></li>
+                    <li><a href="#"><i class="icon-speak"></i></a></li>
+                    <li class="pull-right"><a href="#"><i class="icon-tripledot"></i></a></li>
+                  </ul>
+                </div>
+                <div class="legend">
+                  <h3><a href="#"><i class="icon-heart"></i> 51 Likes</a></h3>
+                  <h4 class="pull-left"><a href="#">Fateen Alzubi</a></h4>
+                  <p>Dr.Bashar</p>
+                </div>
+                <ul class="comments list-unstyled">
+
+
+                </ul>
+              </footer>
+            </section>
+
             <section class="feedify-item">
               <header class="feedify-item-header clearfix">
                 <img alt="" src="img/user-3.jpg" class="img-circle pull-left">
