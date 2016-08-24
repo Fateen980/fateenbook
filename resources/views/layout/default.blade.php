@@ -14,8 +14,7 @@
    <link href="{!! asset('css/feedify-theme.min.css') !!}" rel="stylesheet">
    <link href="{!! asset('css/card.css') !!}" rel="stylesheet">
    <link href="{!! asset('css/sidebar.css') !!}" rel="stylesheet">
-
-
+   @yield('css')
 
 </head>
 <body>

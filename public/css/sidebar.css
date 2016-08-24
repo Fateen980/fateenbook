@@ -65,18 +65,18 @@ body {
   width: 160px;
   margin: 0 auto;
   padding: 10px;
-  background: #546a81;
+  background: #abc3b5;
   font-size: 1.0em;
   font-weight: bold;
-  color: #fff;
+  color: #3c604a;
   border: 0;
   border-radius: 3px;
   cursor: pointer;
   outline: none;
 }
-.flat-btn:hover { background: #607489; }
+.flat-btn:hover { background: #3c604a;color:#fff;}
 .flat-btn:active {
-  background: #506479;
+  background: #3c604a;
   -webkit-box-shadow: inset 0 2px 5px rgba(0,0,0,0.35);
   -moz-box-shadow: inset 0 2px 5px rgba(0,0,0,0.35);
   box-shadow: inset 0 2px 5px rgba(0,0,0,0.35);

@@ -1,5 +1,5 @@
 <div class="row">
-        <div class="col-md-12  col-md-offset-0 ">
+        <div class="col-md-6 col-md-offset-2 ">
           <div class="feedify">
             <section class="feedify-item">
               <header class="feedify-item-header clearfix">
