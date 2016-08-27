@@ -49,7 +49,7 @@
                 <h2 class="pull-right hidden-xs">20 minutes ago</h2>
               </header>
               <div class="feedify-item-body">
-                <img alt="" src="img/10365852_10152006357016862_4861339571654891055_n.jpg" class="img-responsive">
+                <img alt="" src="img/Tom-Cruise-2.jpg" class="img-responsive">
               </div>
               <footer>
                 <div class="actions">

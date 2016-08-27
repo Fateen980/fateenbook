@@ -23,3 +23,10 @@ Route::post('signup','SignupController@index');
 Route::auth();
 Route::get('/home', 'HomeController@index');
 Route::get('/profile', 'ProfileController@index');
+
+Route::post('/saveInfo', 'SaveInfoController@store');
+Route::post('/uploadImgProfile', 'SaveInfoController@addProfilePhoto');
+
+
+
+
